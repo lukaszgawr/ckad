@@ -1,4 +1,6 @@
-# Persistent & Ephemeral Volumes
+# Ephemeral Volumes
+
+Are for caching and other temp data.
 
 Types of ephemeral volumes:
 * emptyDir
